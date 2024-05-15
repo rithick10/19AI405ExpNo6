@@ -1,6 +1,6 @@
 # EX-06 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-### Name : B.Allen Steve Bernard
-### Register No : 212221220004
+### Name : Rithick S P
+### Register No : 212221220043
 ### Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### Theory and Procedure:
@@ -117,8 +117,8 @@ end
 ```
 ### Program:
 ```Python
-import time                # Developed By: Allen Steve Bernard
-class Game:                # Register No : 212221220004
+import time                # Developed By: Rithick S P
+class Game:                # Register No : 212221220043
     def __init__(self):
         self.initialize_game()
     def initialize_game(self):
