@@ -1,5 +1,5 @@
 # EX-06 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-### Name : B.Allen Steve Bernard
+### Name : B.Allen Steve Bernar
 ### Register No : 212221220004
 ### Aim:
 Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
